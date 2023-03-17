@@ -4636,8 +4636,8 @@
 				"Tools"
 			],
 			"description": "Nginx Proxy Manager enables you to easily forward to your websites running at home or otherwise, including free SSL, without having to know too much about Nginx or Letsencrypt.",
-			"image": "jc21/nginx-proxy-manager",
-			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/proxy_mgr.png",
+			"image": "jc21/nginx-proxy-manager:latest",
+			"logo": "https://nginxproxymanager.com/icon.png",
 			"name": "nginx-proxy-manager",
 			"platform": "linux",
 			"ports": [
